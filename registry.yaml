@@ -124,3 +124,17 @@
     - prompt-injection
     - automation
     - structured-outputs
+
+- title: "Temporal Partition Router for Large Models on Small Devices"
+  path: examples/temporal_partition_router/guide.ipynb
+  date: 2026-04-27
+  image: images/temporal_partition_router.jpg
+  description: "Route prompts into Yesterday, Today, and Tomorrow model profiles before dispatching to Grok, Ollama, or a local 120B model"
+  authors:
+    - Karen Tonoyan
+  tags:
+    - agents
+    - routing
+    - local-models
+    - automation
+    - prompt-engineering
