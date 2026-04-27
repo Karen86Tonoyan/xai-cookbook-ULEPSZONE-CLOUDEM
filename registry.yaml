@@ -82,3 +82,45 @@
     - Zhaohan Dong
   tags:
     - function-calling
+
+- title: "Visual Prompt Refinement with Grok"
+  path: examples/visual_prompt_refinement/guide.ipynb
+  date: 2026-04-27
+  image: images/visual_prompt_refinement.jpg
+  description: "Use Grok's image understanding and structured outputs to turn reference images into reusable visual briefs and generator-ready prompts"
+  authors:
+    - Karen Tonoyan
+  tags:
+    - vision
+    - prompt-engineering
+    - structured-outputs
+    - multi-modal
+    - image-generation
+
+- title: "ALFA Context Memory: Snapshot-Based Project Continuity"
+  path: examples/alfa_context_memory/guide.ipynb
+  date: 2026-04-27
+  image: images/alfa_context_memory.jpg
+  description: "Build a local snapshot memory loop that turns project files and archives into cumulative context injections for future AI sessions"
+  authors:
+    - Karen Tonoyan
+  tags:
+    - agents
+    - memory
+    - prompt-engineering
+    - automation
+    - structured-outputs
+
+- title: "Pre-Model Filter Gateway for Any AI Provider"
+  path: examples/pre_model_filter_gateway/guide.ipynb
+  date: 2026-04-27
+  image: images/pre_model_filter_gateway.jpg
+  description: "Build provider-independent architectural filters that run before Grok or any OpenAI-compatible model sees user input"
+  authors:
+    - Karen Tonoyan
+  tags:
+    - safety
+    - agents
+    - prompt-injection
+    - automation
+    - structured-outputs
